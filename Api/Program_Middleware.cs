@@ -1,4 +1,4 @@
-﻿namespace MinimalApiPeliculas
+﻿namespace Api
 {
     public static class Program_Middleware
     {

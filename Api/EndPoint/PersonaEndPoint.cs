@@ -4,10 +4,10 @@ using MediatR;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OutputCaching;
-using MinimalApiPeliculas.Command;
-using MinimalApiPeliculas.Entity;
+using Api.Command;
+using Api.Entity;
 
-namespace MinimalApiPeliculas.EndPoint
+namespace Api.EndPoint
 {
     public static class PersonaEndPoint
     {

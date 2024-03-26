@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
 using MediatR;
 
-namespace MinimalApiPeliculas
+namespace Api
 {
 
 

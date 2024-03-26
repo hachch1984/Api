@@ -1,9 +1,9 @@
 ﻿using FluentValidation;
 using MediatR;
-using MinimalApiPeliculas.Entity;
-using MinimalApiPeliculas.Repositorio;
+using Api.Entity;
+using Api.Repositorio;
 
-namespace MinimalApiPeliculas.Command
+namespace Api.Command
 {
 
 

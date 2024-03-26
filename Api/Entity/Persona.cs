@@ -1,4 +1,4 @@
-﻿namespace MinimalApiPeliculas.Entity
+﻿namespace Api.Entity
 {
     public class Persona
     {

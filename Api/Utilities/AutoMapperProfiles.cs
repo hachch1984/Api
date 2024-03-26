@@ -1,8 +1,8 @@
 ﻿using Api.Dto;
 using AutoMapper; 
-using MinimalApiPeliculas.Entity;
+using Api.Entity;
 
-namespace MinimalApiPeliculas.Utilities
+namespace Api.Utilities
 {
     public class AutoMapperProfiles:Profile
     {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MinimalApiPeliculas.Entity;
-using MinimalApiPeliculas.EntityFramework;
+using Api.Entity;
+using Api.EntityFramework;
 
-namespace MinimalApiPeliculas.Repositorio
+namespace Api.Repositorio
 {
 
 

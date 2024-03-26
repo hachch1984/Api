@@ -1,6 +1,6 @@
-﻿using MinimalApiPeliculas.Entity;
+﻿using Api.Entity;
 
-namespace MinimalApiPeliculas.Repositorio
+namespace Api.Repositorio
 {
     public interface IPersonaRepository
     {

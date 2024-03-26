@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using MinimalApiPeliculas.Entity;
+using Api.Entity;
 
-namespace MinimalApiPeliculas.EntityFramework.SqlTableConfiguration
+namespace Api.EntityFramework.SqlTableConfiguration
 {
     public class Persona_SqlTable : IEntityTypeConfiguration<Persona>
     {

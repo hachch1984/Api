@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using MinimalApiPeliculas.Entity;
+using Api.Entity;
 
-namespace MinimalApiPeliculas.EntityFramework
+namespace Api.EntityFramework
 {
     public class ApplicationDbContext : DbContext
     {

@@ -1,12 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MinimalApiPeliculas.EntityFramework;
-using MinimalApiPeliculas.Repositorio;
+using Api.EntityFramework;
+using Api.Repositorio;
 using System.Text.Json.Serialization;
 using Microsoft.AspNetCore.Http.Json;
 using FluentValidation;
 using System.Reflection;
 
-namespace MinimalApiPeliculas
+namespace Api
 {
     public static class Program_Services
     {

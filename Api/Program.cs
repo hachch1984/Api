@@ -1,5 +1,5 @@
-using MinimalApiPeliculas;
-using MinimalApiPeliculas.EndPoint;
+using Api;
+using Api.EndPoint;
 
 
 var builder = WebApplication.CreateBuilder(args);
